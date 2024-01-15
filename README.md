@@ -2,7 +2,7 @@ Hi all, I'm Kyla McDonald and I'm a Data Analyst and Process Engineer. I've main
 
 You can find my LinkedIn [here](https://www.linkedin.com/in/kylamcdonald/).
 
-Some learning materials I've used on my journey recommend: 
+Some learning materials I've used on my journey and recommend: 
 - [DataCamp](https://app.datacamp.com/) - I used this mainly for SQL, but they have lots of other material 
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/) 
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) 
