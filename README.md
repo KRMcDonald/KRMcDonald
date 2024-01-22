@@ -4,8 +4,8 @@ You can find my LinkedIn [here](https://www.linkedin.com/in/kylamcdonald/).
 
 Some learning materials I've used on my journey and recommend: 
 - [DataCamp](https://app.datacamp.com/) - I used this mainly for SQL, but they have lots of other material 
-- [8 Week SQL Challenge](https://8weeksqlchallenge.com/) 
-- [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) 
+- [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - SQL case studies
+- [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) - I love this, the projects are really fun and engaging, even at the absolute beginner level
 
 <!---
 KRMcDonald/KRMcDonald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
