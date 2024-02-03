@@ -1,6 +1,6 @@
 Hi all, I'm Kyla McDonald and I'm a Data Analyst and Process Engineer. I've mainly worked with Power BI, SQL, and Excel (and some JMP). I'm learning more SQL, Python, and R. This GitHub profile contains my data/programming portfolio.
 
-You can find my LinkedIn [here](https://www.linkedin.com/in/kylamcdonald/).
+You can find my LinkedIn [here](https://www.linkedin.com/in/kylamcdonald/). I've also got some larger video file of my projects on [Youtube](https://www.youtube.com/@krmcdonald14).
 
 Some learning materials I've used on my journey and recommend: 
 - [DataCamp](https://app.datacamp.com/) - I used this mainly for SQL, but they have lots of other material 
