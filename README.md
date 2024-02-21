@@ -7,7 +7,7 @@ Some learning materials I've used on my journey and recommend:
 - [8 Week SQL Challenge](https://8weeksqlchallenge.com/) - SQL case studies
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) - I love this, the projects are really fun and engaging, even at the absolute beginner level
 
-Also, one time, I messed up my makeup and became a mermaid. And it became my profile picture. Just FYI.
+One time I messed up my makeup and became a mermaid. If you were wondering.
 <!---
 KRMcDonald/KRMcDonald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
