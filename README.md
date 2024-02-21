@@ -1,4 +1,4 @@
-Hi all, I'm Kyla McDonald and I'm a Data Analyst and Process Engineer. I've worked extensively with Power BI, Excel, SQL, and JMP. I'm currently focused on improving my SQL and learning Python. This GitHub profile contains my data/programming portfolio.
+Hi all, I'm Kyla McDonald and I'm a Data Analyst and Process Engineer. I've worked extensively with Power BI, Excel, SQL, and JMP. I'm currently focused on improving my SQL and learning Python. This is my data/programming portfolio.
 
 You can find my LinkedIn [here](https://www.linkedin.com/in/kylamcdonald/). I've also got some larger video files of my graphical projects on [Youtube](https://www.youtube.com/@krmcdonald14).
 
